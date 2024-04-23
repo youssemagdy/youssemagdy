@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi My Name Youssef Magdy Kamel
+### Youssef Magdy Kamel
 ## Mobiel Application Dev
 
 <!--
