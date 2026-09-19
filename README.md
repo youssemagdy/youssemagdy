@@ -10,12 +10,11 @@
 
   👨‍💻 About Me
   
-- 🔭 I'm currently working on **[: اسم المشروع الحالي]**
-- 🌱 I'm currently learning **[: Flutter Advanced / Firebase / Clean Architecture]**
+- 🌱 I'm currently learning [: Flutter Advanced / Firebase / Clean Architecture]**
 - 👯 I'm looking to collaborate on **Flutter open-source projects**
 - 💬 Ask me about **Flutter, Dart, Firebase, REST APIs, State Management**
-- 📫 How to reach me: **[ايميلك]**
-- ⚡ Fun fact: **I turn coffee into beautiful UIs ☕ → 📱**
+- 📫 How to reach me: [youssefmagdysoftware@gmail.com]
+- ⚡ Fun fact: I turn coffee into beautiful UIs ☕ → 📱**
 
  🛠️ Tech Stack
 
