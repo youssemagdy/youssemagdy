@@ -15,7 +15,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **[: اسم المشروع الحالي]**
 - 🌱 I'm currently learning **[: Flutter Advanced / Firebase / Clean Architecture]**
 - 👯 I'm looking to collaborate on **Flutter open-source projects**
 - 💬 Ask me about **Flutter, Dart, Firebase, REST APIs, State Management**
@@ -52,48 +51,3 @@
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefmagdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefmagdy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmagdy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="150"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssefmagdy&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefmagdy&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/youssefmagdy/youssefmagdy/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssefmagdy&label=Profile%20Views&color=02569B&style=flat" alt="Profile Views"/>
-</p>
-
-<h3 align="center">⭐ From Youssef Magdy with ❤️</h3>
